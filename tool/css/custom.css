@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+.wrap {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.container{
+	width: 700px;
+}
+
+.form-group{
+	text-align: left;
+}
+
+.checkbox{
+	text-align: left;
+}
+
+form{
+	text-align: right;
+}
